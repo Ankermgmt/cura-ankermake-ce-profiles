@@ -28,7 +28,7 @@ Installing the profile:
 1. Extract the zip file to a location of your choice and open the folder.
 1. Copy the Contents of this folder to the Configuration folder you opened in step two. (Note you will be adding files to the directories)
 1. Open Cura, and you should now be able to add a new AnkerMake M5 Printer.
-![image](https://user-images.githubusercontent.com/10281380/204983099-ebb1007c-1171-4e68-a2e7-a2620efcca1b.png)
+![image](https://github.com/Ankermgmt/cura-ankermake-ce-profiles/assets/10281380/ec469d74-a49f-427c-b134-9f210206815c)
 Optional: Enter a new Printer Name
 Complete the printer setup
 You now should have an AnkerMake M5 CE printer setup with some basic built-in Printer Profiles.
