@@ -1,5 +1,12 @@
 # Changelog
 
+## 1.10.1 - 5/9/2023
+
+- Moved to Ankermgmt organization (NOT AFFILIATED WITH ANKER)
+- Moved Cura and PrusaSlicer configurations into separate repositories
+  - **NOTE:** Moving forward, this repository will contain Cura configurations only
+- Added CE (Community Edition) naming convention to allow side-by-side profile install.
+
 ## 1.10
 
 - Cura Profile Changes
